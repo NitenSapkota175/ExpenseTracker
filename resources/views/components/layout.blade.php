@@ -7,9 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <main>
-        
-    </main>
-   
+   <main>
+    {{$slot}}
+   </main>
 </body>
 </html>

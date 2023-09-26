@@ -1,3 +1,5 @@
 <x-layout>
-    <h1>Index page</h1>
+    <div>
+    <h1 class="bg-black">Index page</h1>
+    </div> 
 </x-layout>
